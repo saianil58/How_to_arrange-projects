@@ -4,24 +4,7 @@ Jupyter notebooks are great! but they wont help you if you want to run things fa
 
 In Industry projects in general follow the below example.
 
-├── input
-│ ├── train.csv
-│ └── test.csv
-├── src
-│ ├── create_folds.py
-│ ├── train.py
-│ ├── inference.py
-│ ├── models.py
-│ ├── config.py
-│ └── model_dispatcher.py
-├── models
-│ ├── model_rf.bin
-│ └── model_et.bin
-├── notebooks
-│ ├── exploration.ipynb
-│ └── check_data.ipynb
-├── README.md
-└── LICENSE
+
 
 Let’s see what these folders and file are about.
 
