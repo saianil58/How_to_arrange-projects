@@ -4,7 +4,7 @@ Jupyter notebooks are great! but they wont help you if you want to run things fa
 
 In Industry projects in general follow the below example.
 
-
+![Image](https://github.com/saianil58/How_to_arrange-projects/blob/main/Capture.JPG)
 
 Let’s see what these folders and file are about.
 
